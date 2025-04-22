@@ -1,1 +1,1 @@
-Thames Tech studio landing page.
+Thames Tech Studio landing page.
