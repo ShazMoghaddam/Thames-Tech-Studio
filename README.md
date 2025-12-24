@@ -1,9 +1,8 @@
 🚧 Under Construction 🚧
 Thames Tech Studio landing page.
-![1024](https://github.com/user-attachments/assets/59bac609-0c5b-4a7d-94bd-c45c5fd44e6e)
-<img width="1474" height="899" alt="Screenshot 2025-12-24 at 19 31 29" src="https://github.com/user-attachments/assets/1c04f587-f9c9-4972-b9d6-9778000009a6" />
-<img width="1481" height="869" alt="Screenshot 2025-12-24 at 19 31 10" src="https://github.com/user-attachments/assets/617dc5b2-c863-40c2-bf67-06c083b6acbe" />
-<img width="1472" height="940" alt="Screenshot 2025-12-24 at 19 30 37" src="https://github.com/user-attachments/assets/ea5cab76-dc25-482f-8a02-b7b036a3fea7" />
-<img width="1487" height="930" alt="Screenshot 2025-12-24 at 19 25 28" src="https://github.com/user-attachments/assets/ca384bcb-dff5-4be9-b381-0a6d99545a84" />
-<img width="1478" height="926" alt="Screenshot 2025-12-24 at 19 24 36" src="https://github.com/user-attachments/assets/4bf67c5e-6978-4e46-86ff-586ea9bd6093" />
-<img width="1473" height="931" alt="Screenshot 2025-12-24 at 19 29 46" src="https://github.com/user-attachments/assets/a3750612-7f07-40e0-870e-42596272bbfd" />
+<img width="1478" height="926" alt="Screenshot 2025-12-24 at 19 24 36" src="https://github.com/user-attachments/assets/6fd91495-4c3a-4aee-828a-cc7c3ee6690d" />
+<img width="1473" height="931" alt="Screenshot 2025-12-24 at 19 29 46" src="https://github.com/user-attachments/assets/784f2e8d-4d30-475f-b391-ed744a3f7bb7" />
+<img width="1487" height="930" alt="Screenshot 2025-12-24 at 19 25 28" src="https://github.com/user-attachments/assets/ea1600d9-08e5-4f65-9cd5-e44d89560b4a" />
+<img width="1472" height="940" alt="Screenshot 2025-12-24 at 19 30 37" src="https://github.com/user-attachments/assets/3fa46b51-b6ba-4ddc-826b-c1de46df7793" />
+<img width="1481" height="869" alt="Screenshot 2025-12-24 at 19 31 10" src="https://github.com/user-attachments/assets/3618e5bf-ed65-4791-936b-d959a5c2a104" />
+<img width="1474" height="899" alt="Screenshot 2025-12-24 at 19 31 29" src="https://github.com/user-attachments/assets/e9d98bba-e1ec-4865-9582-3dc5311217a2" />
